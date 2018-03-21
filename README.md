@@ -107,7 +107,7 @@
   - 【開発工程】 共通部品の製造、開発ガイドの作成。
   - 【テスト工程】 テスト環境の整備、テストツールの作成、障害対応。
 - 使用技術
-  - OS: Windows
+  - OS: Windows
   - 言語: VB.NET, JavaScript
   - Framework: .NET Framework, jQuery
   - DB: SQLServer
