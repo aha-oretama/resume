@@ -62,6 +62,20 @@
   - Middleware: Jenkins, TeamCity, (CircleCI, TravisCI), Docker, AWS
   - Tool: SonarQube, ESLint, Lint-Review, CodeCov, Danger, VersionEye
 
+#### Amazon Echo ホットペッパーグルメ用スキル開発 2017/4 - 2017/10
+
+- プロジェクト概要
+  - Amazhon Echoのホットペッパーグルメ用スキル開発
+- 実績 / 取り組み
+  - スキルのインフラ構築、開発環境構築
+  - スキルの初期アーキテクチャ構築
+  - 英語版スキルでの作成、その後日本語版対応へ変更
+- 使用技術
+  - 言語: Node.js
+  - DB: DynamoDB
+  - Framework: Alexa Skills Kit SDK for Node.js
+  - Middleware: AWS Lambda
+
 #### ブッキングテーブル開発 2015/8 - 2017/3
 
 - プロジェクト概要
