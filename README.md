@@ -18,6 +18,7 @@
 |Qiita|<https://qiita.com/AHA_oretama>|
 |SlideShare|<https://www.slideshare.net/aha_oretama>|
 |はてなブログ|<http://aha-oretama.hatenablog.com/>|
+|GitHub|<https://github.com/aha-oretama>|
 
 ## 活かせる経験・知識・技術
 
