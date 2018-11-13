@@ -20,6 +20,8 @@
 |SlideShare|<https://www.slideshare.net/aha_oretama>|
 |はてなブログ|<http://aha-oretama.hatenablog.com/>|
 |GitHub|<https://github.com/aha-oretama>|
+|他(会社ブログなど)| https://engineer.recruit-lifestyle.co.jp/techblog/2017-07-11-first-rls-meetup/ |
+| | https://tech.mercari.com/entry/2018/10/25/111559 |
 
 ## 活かせる経験・知識・技術
 
