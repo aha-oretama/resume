@@ -22,6 +22,10 @@
 |GitHub|<https://github.com/aha-oretama>|
 |他(会社ブログなど)| https://engineer.recruit-lifestyle.co.jp/techblog/2017-07-11-first-rls-meetup/ |
 | | https://tech.mercari.com/entry/2018/10/25/111559 |
+| | https://tech.mercari.com/entry/2018/12/07/074346 |
+| | https://tech.mercari.com/entry/2019/02/12/080000 |
+| | https://tech.mercari.com/entry/2019/04/26/060000 |
+| | https://codezine.jp/article/detail/11599 |
 
 ## 活かせる経験・知識・技術
 
