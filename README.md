@@ -40,6 +40,7 @@
 - 【メイン】CI/CDの構築、運用、改善の実施
   - Jenkins, CircleCI, TeamCity, TravisCI などの比較検証を実施
 - Software Engineer in Test(以降、SET)の活動経験
+- 英語を主とするチームでの開発経験
 - ITアーキテクトとしてアーキテクチャの選定、非機能要件、共通部品の実装
 - bot, CI, Slack, その他ツールを連携させたDevOps環境構築と運用
 - AWS, GCP の環境構築
@@ -56,6 +57,7 @@
   - Lighthouse CIやjest-axeなどを用いた、パフォーマンス、アクセシビリティ、SEOのCIへの導入。
   - デプロイパイプラインの構築。またテスタビリティの向上のためにPullRequetごとに環境を構築。
   - Microservice上のWebアプリケーションに対する、ロードテスティングの実施。
+  - すべて英語によるコミュニケーションでの開発経験。
 - 使用技術
   - 言語: Node.js、Golang
   - Framework: Gatsby, React, TypeScript
@@ -70,6 +72,7 @@
   - デプロイパイプラインの構築。またテスタビリティの向上のためにPullRequetごとに環境を構築。
   - テスト自動化戦略の検討。パスごとに新Webに切り替わるリアーキテクトプロジェクトでの最良の品質担保を検討し、実施。
   - Unitテスト、ApplitoolsによるVisual Regressionテスト、WebdriverIOのE2Eテストのサンプルコード、テストコード、CI環境構築。
+  - 英語によるコミュニケーションでの開発経験。
 - 使用技術
   - 言語: Node.js
   - Framework: React, TypeScript, GraphQL
