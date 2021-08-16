@@ -18,6 +18,7 @@
 |Twitter|[@AHA_oretama](https://twitter.com/AHA_oretama)|
 |Qiita|<https://qiita.com/AHA_oretama>|
 |SlideShare|<https://www.slideshare.net/aha_oretama>|
+|Speaker Deck|<https://speakerdeck.com/ahaoretama>|
 |はてなブログ|<http://aha-oretama.hatenablog.com/>|
 |GitHub|<https://github.com/aha-oretama>|
 |他(会社ブログなど)| https://engineer.recruit-lifestyle.co.jp/techblog/2017-07-11-first-rls-meetup/ |
@@ -32,24 +33,62 @@
 
 - 【メイン】Java, Groovy, Kotlin のJVM言語とSpring, Spring Boot を使用したWEBアプリケーション開発
   - Spring 関連に関しては広く深い知識をもつ
-- HTML5, CSS3, ES2015+, Node.js, React, Redux によるWEBアプリケーション開発経験
+- 【メイン】HTML5, CSS, Node.js, React, TypeScript による大規模WEBアプリケーション開発経験
 - JavaによるAndroid アプリケーション開発の開発経験
-- 【メイン】Selenium, Appium などEndToEndテストツールに関する知識と経験
+- 【メイン】Selenium, Appium, Playwright, WebdriverIOなどEndToEndテストツールに関する知識と経験
   - Espresso, puppeteer, Magic Podなど最新のテストツール情報の収集と把握
 - 【メイン】CI/CDの構築、運用、改善の実施
   - Jenkins, CircleCI, TeamCity, TravisCI などの比較検証を実施
 - Software Engineer in Test(以降、SET)の活動経験
 - ITアーキテクトとしてアーキテクチャの選定、非機能要件、共通部品の実装
 - bot, CI, Slack, その他ツールを連携させたDevOps環境構築と運用
-- AWS の環境構築
+- AWS, GCP の環境構築
 
 ## 職務経歴
 
 ### 株式会社メルカリ: 2018/8 - 現在
 
-#### Automation ＆ QA チーム 2018/8 - 現在
+#### SETI (Software Engineer, Tools and Infrasctructure) チーム 2020/10 - 現在
+- プロジェクト概要
+  - メルカリWebの再構築プロジェクト（Webアプリケーションすべてを新Webに置き換える。リアーキテクトプロジェクトとは別物）での生産性、品質の向上
+- 実績 / 取り組み
+  - テスト戦略、テスト自動化戦略の検討。Unitテスト、Regressionテスト、PlaywrightのE2Eテストのサンプルコード、テストコード、CI環境構築。
+  - Lighthouse CIやjest-axeなどを用いた、パフォーマンス、アクセシビリティ、SEOのCIへの導入。
+  - デプロイパイプラインの構築。またテスタビリティの向上のためにPullRequetごとに環境を構築。
+  - Microservice上のWebアプリケーションに対する、ロードテスティングの実施。
+- 使用技術
+  - 言語: Node.js、Golang
+  - Framework: Gatsby, React, TypeScript
+  - Testing: Playwright, reg-suit, Lighthouse CI, Axe
+  - Others: Kubernetes, GCP, Spinnaker, CircleCI, Cloud Build, GitHub Actions
 
-- Now Working... 
+#### SETI (Software Engineer, Tools and Infrasctructure) チーム 2019/4 - 2020/9
+
+- プロジェクト概要
+  - メルカリWebのリアーキテクトプロジェクト（パスごとに新Webへ切り替え）での生産性、品質の向上
+- 実績 / 取り組み
+  - デプロイパイプラインの構築。またテスタビリティの向上のためにPullRequetごとに環境を構築。
+  - テスト自動化戦略の検討。パスごとに新Webに切り替わるリアーキテクトプロジェクトでの最良の品質担保を検討し、実施。
+  - Unitテスト、ApplitoolsによるVisual Regressionテスト、WebdriverIOのE2Eテストのサンプルコード、テストコード、CI環境構築。
+- 使用技術
+  - 言語: Node.js
+  - Framework: React, TypeScript, GraphQL
+  - Testing: WebdriverIO, Applitools
+  - Others: Kubernetes, GCP, Spinnaker, CircleCI, Cloud Build
+
+#### Automation ＆ QA チーム 2018/8 - 2019/3
+
+- プロジェクト概要
+  - メルカリアプリの自動テストによる品質向上
+- 実績 / 取り組み
+  - AppiumによるAndroidアプリのE2Eテストの実装と、E2Eテストを書けるようにQAエンジニアを教育。
+  - 上記のCI環境の構築と改善、並列実行による高速化。
+  - HeadSpinを利用した、モバイルアプリのパフォーマンスのモニタリング環境の構築。
+  - 独自のレポーター、Cloud SQL、Lookerによる、E2Eテストの各種コア指標の可視化とモニタリング。
+- 使用技術
+  - 言語: Ruby
+  - Framework: Appium
+  - Others: Jenkins, GCP, CircleCI, HeadSpin, Cloud SQL, Looker
 
 ### 株式会社リクルートライフスタイル: 2015/8 - 2018/7
 
@@ -160,9 +199,11 @@
 
 ## 自己PR
 
-自身の志向はSETとして活躍し、日本を代表するエンジニアになりたい、というところにあります。
+もともと品質や開発生産性の向上に興味があり、自身でSET（Software Engineer in Test）として活動し始めました。
+SETの組織がある会社にジョインしたことで、より一層、品質や開発生産性に対する意識とスキルが増えたと思います。
 
 開発ありきのテストであり、SETという役割は幅広い技術、知識が求められると考えているため、最新の技術動向のキャッチアップ、勉強会への参加などは常に行うように心がけています。
+また本を写経したり独学したり、個人での開発をしながら、ソフトウェアエンジニアとして必要なスキルも日々磨いています。
 
-これまでの開発統括などの経験を通して、ビジネスにいかにインパクトを与えることができるか、という視点を得ました。
+また、これまでの開発統括などの経験を通して、ビジネスにいかにインパクトを与えることができるか、という視点を得ました。
 直接ビジネスから遠いSETという存在ですが、常に現在のプロジェクトに何が１番必要か、何がビジネスインパクトを与えられるかを意識して動いています。
