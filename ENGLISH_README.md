@@ -3,11 +3,11 @@
 ## Agenda
 
 - [Profile](#profile)
-- [Experience, Knowledge, Skill](#活かせる経験知識技術)
+- [Experience, Knowledge, Skill](#experience-knowledge-skill)
 - [Career](#career)
-    - [Mercari.Inc.: 2018/8 => now](#株式会社メルカリ-20188---現在)
-    - [Recruit Lifestyle Co., Ltd.: 2015/8 => 2018/7](#株式会社リクルートライフスタイル-20158---20187)
-    - [Nihon Unisys, Ltd.: 2011/4 - 2015/7](#日本ユニシス株式会社-20114---20157)
+    - [Mercari.Inc.: 2018/8 => now](#mercariinc-20188--now)
+    - [Recruit Lifestyle Co., Ltd.: 2015/8 => 2018/7](#recruit-lifestyle-co-ltd-20158--20187)
+    - [Nihon Unisys, Ltd.: 2011/4 - 2015/7](#nihon-unisys-ltd-20114---20157)
 - [Cover Letter](#cover-letter)
 
 ## Profile
