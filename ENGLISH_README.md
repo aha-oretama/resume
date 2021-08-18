@@ -7,7 +7,7 @@
 - [Career](#career)
     - [Mercari.Inc.: 2018/8 => now](#株式会社メルカリ-20188---現在)
     - [Recruit Lifestyle Co., Ltd.: 2015/8 => 2018/7](#株式会社リクルートライフスタイル-20158---20187)
-    - [Nihon Unisys, Ltd.： 2011/4 - 2015/7](#日本ユニシス株式会社-20114---20157)
+    - [Nihon Unisys, Ltd.: 2011/4 - 2015/7](#日本ユニシス株式会社-20114---20157)
 - [Cover Letter](#cover-letter)
 
 ## Profile
@@ -37,8 +37,10 @@
 - Experience in Android application development using Java
 - Knowledge and experience with EndToEnd testing tools such as Selenium, Appium, Playwright, WebdriverIO
   - Gathering and understanding of the latest testing tool information such as Espresso, puppeteer, Magic Pod, etc.
+- Introducing automated testing for accessibility and performance and load testing
+- Planning a testing strategy, including automated testing
 - Establish, operate, and improve CI/CD
-  - Experience in comparison and verification of Jenkins, CircleCI, TeamCity, TravisCI, etc.
+  - Experience to compare and verify CI services such as Jenkins, CircleCI, TeamCity, TravisCI, etc.
 - Experience in Software Engineer in Test (SET) 
 - Experience in development with a team of English speakers
 - As an IT architect, selecting architecture, implementing non-functional requirements and common components
@@ -51,7 +53,7 @@
 
 #### SETI (Software Engineer, Tools and Infrasctructure) team: 2020/10 => now
 - Project Overview
-  - Improve productivity and quality in Mercalli Web groundup project (replacing all web applications with the new web application. This project is different from the rearchitect project.) 
+  - Improve productivity and quality in Mercalli Web groundup project (replacing all web applications with the new web application. This project is different from the re-architecture project.) 
 - Achievements / Activities
   - Considering test strategy and test automation strategy; write sample code, test code, and establish CI environment for Unit testing, Regression testing, and Playwright E2E testing.
   - CI Implementation of performance, accessibility, and SEO by using Lighthouse CI and jest-axe.
@@ -67,10 +69,10 @@
 #### SETI (Software Engineer, Tools and Infrasctructure) team: 2019/4 => 2020/9
 
 - Project Overview
-  - Improving productivity and quality in the re-architect project of the Mercari web (switching to the new web for every path)
+  - Improve productivity and quality in the re-architecture project of the Mercari web (switching to the new web for every path)
 - Achievements / Activities
-  - Building a deployment pipeline. Also, build an environment for each PullRequet to improve testability.
-  - Considering test automation strategy. Investigate and implemente the best quality assurance for the rearchitected project, which switches to the new web at every path.
+  - Building a deployment pipeline. Also, building an environment for each pull request to improve testability.
+  - Considering test automation strategy. Investigate and implemente the best quality assurance for the re-architecture project, which switches to the new web at every path.
   - Developing sample code, test code and CI environment for Unit testing, Visual Regression testing with Applitools and E2E testing with WebdriverIO.
   - Experience in development with English communication.
 - Technology stack
@@ -98,16 +100,16 @@
 #### Head of development in HOT PEPPER GOURMET: 2017/12 => 2018/7
 
 - Project Overview
-  - As a head of development in HOT PEPPER GOURMET, I was responsible for the mid-term to long-term system strategy, reviewed the architecture, business partner strategy and recruitment, and managed IT costs.
+  - As a head of development in HOT PEPPER GOURMET, I was responsible for the mid-term to long-term system strategy, the system architecture, business partner strategy and recruitment, and managed IT costs.
 - Achievements / Activities
-  - Establish a mid-term to long-term strategy for the system. Clarifying the technical debt in large-scale services, and establishing and prioritizing a policy to deal with it.
-  - Selection of the most suitable architecture for new services and functions, or implementation of its review.
-  - Partner workforce planning and management in line with project and business growth. Formulate and implement partner strategies.
+  - Establishing a mid-term to long-term strategy for the system. Clarifying the technical debt in large-scale services, and establishing and prioritizing a policy to deal with it.
+  - Selecting the most suitable architecture for new services and functions, or reviewing of those implementations.
+  - Plannning and managing for partner workforce accoridng to business growth.
 
 #### Software Engineer in Test(SET): 2016/12 => 2017/11
 
 - Project Overview
-  - Started to launch SET, optimize CI, increase pull request feedback, and evangelize testing.
+  - Launch SET team, optimize CI, increase pull request feedback, and evangelize testing.
 - Achievements / Activities
   - I explained the current situation based on the incident rate and bug rate, and explained how I would work as a SET and the expected effects. 
   - There was a current debt that was taking 3-4 hours to run unit tests on CI. We selected and decided a new CI candidate, set up the CI architecture and pipeline, and optimized the CI to finish within 20-30 minutes.
@@ -126,7 +128,7 @@
 - Achievements / Activities
     - Building skills infrastructure and development environment
         - Building the initial architecture of skills
-        - Created a skill with English version, then changed to support Japanese version.
+        - We created a skill with English version, then changed to support Japanese version.
 - Technology stack
   - Language: Node.js
   - DB: DynamoDB
@@ -153,7 +155,7 @@
   - Requirements definition, design, development, and operation of multiple business systems. Electric power company,  pharmaceuticals & medical devices, industrial accidents
 - Achievements / Activities
   - As a system integrator, I experienced full phase from the requirements definition stage to migration and operation stage.
-  - In some projects, implementation of common components and non-functional requirements as a system architect.
+  - In some projects, I implemented common components and non-functional requirements as a system architect.
 - Technology stack
   - OS: Linux, Windows
   - Language: Java, VB.NET, JavaScript, Bash etc
@@ -172,4 +174,3 @@ In addition, I am constantly improving my skills as a software engineer by copyi
 
 Through my experience as a head of development, I have also gained a perspective on how I can make an impact on business.
 As a SET, I am far from the business, but I am always conscious of what is most necessary for the current project and what can have a business impact.
-
