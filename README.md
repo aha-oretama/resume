@@ -37,6 +37,8 @@
 - JavaによるAndroid アプリケーション開発の開発経験
 - 【メイン】Selenium, Appium, Playwright, WebdriverIOなどEndToEndテストツールに関する知識と経験
   - Espresso, puppeteer, Magic Podなど最新のテストツール情報の収集と把握
+- アクセシビリティ、パフォーマンス、ロードテストの自動テストの導入
+- 【メイン】自動テストを含めたテスト戦略の策定
 - 【メイン】CI/CDの構築、運用、改善の実施
   - Jenkins, CircleCI, TeamCity, TravisCI などの比較検証を実施
 - Software Engineer in Test(以降、SET)の活動経験
