@@ -4,6 +4,7 @@
 
 - [Profile](#profile)
 - [Experience, Knowledge, Skill](#experience-knowledge-skill)
+- [Education/Career History](education)
 - [Career](#career)
     - [Mercari.Inc.: 2018/8 => now](#mercariinc-20188--now)
     - [Recruit Lifestyle Co., Ltd.: 2015/8 => 2018/7](#recruit-lifestyle-co-ltd-20158--20187)
@@ -29,6 +30,8 @@
 | | https://engineering.mercari.com/blog/entry/2019-12-23-170258/ |
 | | https://codezine.jp/article/detail/11599 |
 
+
+
 ## Experience, Knowledge, Skill
 
 - Develop web applications using Java, Groovy, Kotlin JVM languages, Spring and Spring Boot.
@@ -46,6 +49,20 @@
 - As an IT architect, selecting architecture, implementing non-functional requirements and common components
 - Building and operating DevOps environment by integrating bot, CI, Slack, and other tools
 - Use AWS, GCP
+
+
+
+## Education/Career History
+
+| Date             | Education/Career Hisotry                                     |
+| ---------------- | ------------------------------------------------------------ |
+| 2005/4 - 2009/3  | Bachelor of Earth & Planetary Sciences, Tokyo Institute of Technology |
+| 2009/4 - 2011/3  | Master of Earth & Planetary Sciences, Tokyo Institute of Technology |
+| 2011/4 - 2015/7  | Nihon Unisys, Ltd.                                           |
+| 2015/8 - 2018/7  | Recruit Lifestyle Co., Ltd.                                  |
+| 2018/8 - current | Mercari.Inc.                                                 |
+
+
 
 ## Career
 
