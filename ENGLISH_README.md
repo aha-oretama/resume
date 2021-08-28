@@ -4,7 +4,7 @@
 
 - [Profile](#profile)
 - [Experience, Knowledge, Skill](#experience-knowledge-skill)
-- [Education/Career History](education)
+- [Education/Career History](#educationcareer-history)
 - [Career](#career)
     - [Mercari.Inc.: 2018/8 => now](#mercariinc-20188--now)
     - [Recruit Lifestyle Co., Ltd.: 2015/8 => 2018/7](#recruit-lifestyle-co-ltd-20158--20187)
